@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">A passionate person who is learning frontend skill. My goal of 2023 is become a frontend developer.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS**
 
 - 📝 I regularly write articles on [https://vocus.cc/user/@Jeremy_Ho](https://vocus.cc/user/@Jeremy_Ho)
 
