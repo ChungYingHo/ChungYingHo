@@ -58,10 +58,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ChungYingHo/ChungYingHo/output/snake.svg" alt="Snake animation" />
-
-###
