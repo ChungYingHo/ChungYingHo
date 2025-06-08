@@ -7,7 +7,7 @@
 # 💫 About Me:
 Hi 👋! My name is Jeremy and I'm a front-end developer from Taiwan~  
 🌱 I’m currently learning game development with C# and Unity.  
-You can also welcome to [CodeFictionist](https://codefictionist.com), it is my blog.
+You can also welcome to my [blog](https://jeremyho.tw/).
 
 
 ## 🌐 Socials:
