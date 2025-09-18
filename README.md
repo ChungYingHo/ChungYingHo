@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400&q=80" alt="Coding Banner" style="width: 100%; height: 300px; object-fit: cover; border-radius: 15px; margin-bottom: 20px;">
+```
+  _   _          _   _         _    _            _     _ _ 
+ | | | |        | | | |       | |  | |          | |   | | |
+ | |_| |   ___  | | | | ___   | |  | | ___  _ __| | __| | |
+ |  _  |  / _ \ | | | |/ _ \  | |/\| |/ _ \| '__| |/ _` | |
+ | | | | |  __/ | | | | (_) | \  /\  / (_) | |  | | (_| |_|
+ |_| |_|  \___| |_| |_|\___/   \/  \/ \___/|_|  |_|\__,_(_)
+```
 
 # Jeremy Ho
 
@@ -51,25 +58,21 @@ I'd love to connect and chat about technology, development, or anything interest
 
 ## Tech Stack
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 15px;">
-
-<div>
+<div style="text-align: center; margin-top: 15px;">
 
 ### Frontend Development
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** - Core language
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **TypeScript** - Type safety
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) **Vue.js** - Reactive framework
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) **React** - Component library
-
+<div style="display: flex; justify-content: center; gap: 15px; margin: 10px 0; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="height: 40px;">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="height: 40px;">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" style="height: 40px;">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="height: 40px;">
 </div>
 
-<div>
-
 ### Other Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** - Scripting & backend
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) **C#** - Game development
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** - Enterprise apps
-
+<div style="display: flex; justify-content: center; gap: 15px; margin: 10px 0; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 40px;">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="height: 40px;">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="height: 40px;">
 </div>
 
 </div>
