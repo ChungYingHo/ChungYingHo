@@ -24,17 +24,34 @@ Creating beautiful and functional user experiences through modern frontend devel
 
 ---
 
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 4px solid #667eea;">
+<div style="background-color: #1e1e1e; color: #d4d4d4; padding: 20px; border-radius: 8px; border-left: 4px solid #667eea; font-family: 'Consolas', 'Monaco', monospace;">
 
-## About Me
+```javascript
+const jeremy = {
+  name: "Jeremy Ho",
+  role: "Frontend Developer & Game Designer",
+  location: "Taiwan 🇹🇼",
+  skills: ["JavaScript", "TypeScript", "Vue.js", "React"],
+  interests: ["Game Development", "Unity", "C#"],
+  blog: "https://jeremyho.tw/",
+  
+  introduce() {
+    return `Hello! I'm ${this.name}, a passionate ${this.role} based in ${this.location}.`;
+  },
+  
+  whatIDo() {
+    return [
+      "Building beautiful user interfaces with modern frameworks",
+      "Exploring game development with Unity and C#",
+      "Sharing knowledge on my blog",
+      "Always learning new technologies and best practices"
+    ];
+  }
+};
 
-Hello! I'm Jeremy, a passionate frontend developer based in Taiwan. I specialize in creating modern, responsive web applications using cutting-edge technologies.
-
-**What I do:**
-- Building beautiful user interfaces with JavaScript, TypeScript, Vue.js, and React
-- Exploring game development with Unity and C#
-- Sharing knowledge on [my blog](https://jeremyho.tw/)
-- Always learning new technologies and best practices
+console.log(jeremy.introduce());
+jeremy.whatIDo().forEach(item => console.log(`- ${item}`));
+```
 
 </div>
 
@@ -46,14 +63,14 @@ I'd love to connect and chat about technology, development, or anything interest
 
 <div style="display: flex; justify-content: space-around; margin-top: 15px;">
 
-<a href="https://www.linkedin.com/in/chung-ying-ho" style="text-decoration: none; margin: 0 10px;">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.2s ease;">
+<a href="https://www.linkedin.com/in/chung-ying-ho" style="text-decoration: none; margin: 0 15px;">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(10,102,194,0.3); border: 2px solid rgba(255,255,255,0.1);">
 </a>
-<a href="https://jeremyho.tw/" style="text-decoration: none; margin: 0 10px;">
-<img src="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.2s ease;">
+<a href="https://jeremyho.tw/" style="text-decoration: none; margin: 0 15px;">
+<img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(255,87,34,0.3); border: 2px solid rgba(255,255,255,0.1);">
 </a>
-<a href="https://codepen.io/ChungYingHo" style="text-decoration: none; margin: 0 10px;">
-<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.2s ease;">
+<a href="https://codepen.io/ChungYingHo" style="text-decoration: none; margin: 0 15px;">
+<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.4); border: 2px solid rgba(255,255,255,0.1);">
 </a>
 
 </div>
@@ -68,17 +85,17 @@ I'd love to connect and chat about technology, development, or anything interest
 
 ### Frontend Development
 <div style="display: flex; justify-content: center; gap: 15px; margin: 10px 0; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="height: 28px; border-radius: 8px; box-shadow: 0 4px 8px rgba(247,223,30,0.3); margin: 0 5px;">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="height: 28px; border-radius: 8px; box-shadow: 0 4px 8px rgba(49,120,198,0.3); margin: 0 5px;">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" style="height: 28px; border-radius: 8px; box-shadow: 0 4px 8px rgba(79,192,141,0.3); margin: 0 5px;">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="height: 28px; border-radius: 8px; box-shadow: 0 4px 8px rgba(97,218,251,0.3); margin: 0 5px;">
 </div>
 
 ### Other Languages
 <div style="display: flex; justify-content: center; gap: 15px; margin: 10px 0; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 28px; border-radius: 8px; box-shadow: 0 4px 8px rgba(55,118,171,0.3); margin: 0 5px;">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="height: 28px; border-radius: 8px; box-shadow: 0 4px 8px rgba(35,145,32,0.3); margin: 0 5px;">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="height: 28px; border-radius: 8px; box-shadow: 0 4px 8px rgba(237,139,0,0.3); margin: 0 5px;">
 </div>
 
 </div>
