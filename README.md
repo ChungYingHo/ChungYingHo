@@ -27,31 +27,22 @@ Creating beautiful and functional user experiences through modern frontend devel
 <div style="background-color: #1e1e1e; color: #d4d4d4; padding: 20px; border-radius: 8px; border-left: 4px solid #667eea; font-family: 'Consolas', 'Monaco', monospace;">
 
 ```javascript
+// About Jeremy
 const jeremy = {
   name: "Jeremy Ho",
   role: "Frontend Developer & Game Designer",
   location: "Taiwan 🇹🇼",
   skills: ["JavaScript", "TypeScript", "Vue.js", "React"],
   interests: ["Game Development", "Unity", "C#"],
-  blog: "https://jeremyho.tw/",
-  
-  introduce() {
-    return `Hello! I'm ${this.name}, a passionate ${this.role} based in ${this.location}.`;
-  },
-  
-  whatIDo() {
-    return [
-      "Building beautiful user interfaces with modern frameworks",
-      "Exploring game development with Unity and C#",
-      "Sharing knowledge on my blog",
-      "Always learning new technologies and best practices"
-    ];
-  }
+  blog: "https://jeremyho.tw/"
 };
-
-console.log(jeremy.introduce());
-jeremy.whatIDo().forEach(item => console.log(`- ${item}`));
 ```
+
+**What I do:**
+- Building beautiful user interfaces with modern frameworks
+- Exploring game development with Unity and C#
+- Sharing knowledge on [my blog](https://jeremyho.tw/)
+- Always learning new technologies and best practices
 
 </div>
 
