@@ -46,9 +46,15 @@ I'd love to connect and chat about technology, development, or anything interest
 
 <div style="display: flex; justify-content: space-around; margin-top: 15px;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chung-ying-ho)
-[![Blog](https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=medium&logoColor=white)](https://jeremyho.tw/)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ChungYingHo)
+<a href="https://www.linkedin.com/in/chung-ying-ho" style="text-decoration: none; margin: 0 10px;">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.2s ease;">
+</a>
+<a href="https://jeremyho.tw/" style="text-decoration: none; margin: 0 10px;">
+<img src="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.2s ease;">
+</a>
+<a href="https://codepen.io/ChungYingHo" style="text-decoration: none; margin: 0 10px;">
+<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.2s ease;">
+</a>
 
 </div>
 
@@ -62,17 +68,17 @@ I'd love to connect and chat about technology, development, or anything interest
 
 ### Frontend Development
 <div style="display: flex; justify-content: center; gap: 15px; margin: 10px 0; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="height: 28px;">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="height: 28px;">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" style="height: 28px;">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" style="height: 28px;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 </div>
 
 ### Other Languages
 <div style="display: flex; justify-content: center; gap: 15px; margin: 10px 0; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 28px;">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" style="height: 28px;">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="height: 28px;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="height: 22px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 </div>
 
 </div>
